@@ -22,5 +22,6 @@ int[] array = CreateArray(size,-90,90);
 Console.Write("Your array: "); 
 PrintArray(array); 
 Console.WriteLine(); 
+Console.Write("Your Opposite array: ");
 Opposit(array);
 PrintArray(array);
